@@ -47,7 +47,7 @@ jni = "0.20"
 [dev-dependencies]
 bevy = { version = "0.12", default-features = false }
 color-eyre = "0.6.2"
-bevy_rapier3d = { git = "https://github.com/devil-ira/bevy_rapier", branch = "bevy-0.12", default-features = false }
+bevy_rapier3d = { git = "https://github.com/devil-ira/bevy_rapier", branch = "bevy-0.12" }
 
 [[example]]
 name = "xr"
